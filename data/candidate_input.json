@@ -1,0 +1,60 @@
+{
+  "nom": "Aymen Ben Ali",
+  "email": "aymen.benali@email.com",
+  "telephone": "+216 95 123 456",
+  "diplome": "Master Informatique",
+  "universite": "Université de Tunis",
+  "annee_graduation": 2021,
+  "competences": {
+    "langages": ["Python", "JavaScript", "SQL", "Java"],
+    "frameworks": ["Django", "Flask", "TensorFlow", "PyTorch"],
+    "outils": ["Git", "Docker", "Jupyter", "VS Code"],
+    "autres": ["Machine Learning", "Data Analysis", "API REST"]
+  },
+  "experiences": [
+    {
+      "titre": "Machine Learning Engineer",
+      "entreprise": "TechStart Tunisia",
+      "duree_mois": 18,
+      "date_debut": "2022-06-01",
+      "date_fin": "2024-01-31",
+      "description": "Développement de modèles de classification d'images avec TensorFlow. Accuracy: 92%. Intégration en production sur API REST Django.",
+      "tecnologies": ["Python", "TensorFlow", "Django", "Docker"]
+    },
+    {
+      "titre": "Data Analyst Intern",
+      "entreprise": "DataCorp Tunisia",
+      "duree_mois": 6,
+      "date_debut": "2021-11-01",
+      "date_fin": "2022-05-31",
+      "description": "Analyse de données clients, création de dashboards, optimisation de pipelines ETL.",
+      "technologies": ["Python", "SQL", "Pandas", "Power BI"]
+    }
+  ],
+  "projets_personnels": [
+    {
+      "nom": "Sentiment Analysis NLP",
+      "description": "Projet personnel de classification de sentiments avec LSTM. Développé en 2024.",
+      "lien_github": "github.com/aymen/sentiment-analysis",
+      "technologies": ["Python", "PyTorch", "NLP", "LSTM"]
+    }
+  ],
+  "langues": ["Français", "Arabe", "Anglais"],
+  "formations_continues": [
+    {
+      "nom": "NLP Masterclass",
+      "plateforme": "Coursera",
+      "date_completion": "2024-02-15",
+      "certificat": true
+    }
+  ],
+  "points_forts_declares": [
+    "Maîtrise Python confirmée",
+    "Expérience ML en production",
+    "Autonome et proactif",
+    "Apprentissage rapide"
+  ],
+  "disponibilite": "2 semaines",
+  "pretention_salariale": "2500-3000 TND",
+  "lieu_travail": "Tunis"
+}

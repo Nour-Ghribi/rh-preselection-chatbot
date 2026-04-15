@@ -1,0 +1,53 @@
+{
+  "titre_poste": "Data Scientist",
+  "entreprise": "AI Innovations Tunisia",
+  "description": "Nous cherchons un Data Scientist pour rejoindre notre équipe de R&D. Vous travaillerez sur des projets de ML appliqué avec des datasets volumineux.",
+  "competences_obligatoires": [
+    "Python avancé",
+    "Machine Learning",
+    "Traitement de données (Pandas, NumPy)"
+  ],
+  "competences_tres_appreciees": [
+    "NLP (Natural Language Processing)",
+    "Deep Learning (TensorFlow/PyTorch)",
+    "Déploiement en production",
+    "Docker/Kubernetes"
+  ],
+  "competences_optionnelles": [
+    "Experience avec Spark",
+    "Cloud (AWS, GCP)",
+    "Experience avec des APIs RH"
+  ],
+  "soft_skills_requis": [
+    "Autonomie",
+    "Travail en équipe",
+    "Communication",
+    "Résolution de problèmes"
+  ],
+  "experience_requise": {
+    "minimum_ans": 2,
+    "description": "Au minimum 2 ans d'expérience en Data Science ou ML Engineering"
+  },
+  "formation_requise": {
+    "diplome": "Master ou équivalent en Informatique / Mathématiques",
+    "domaine": "Informatique, Mathématiques, Data Science, ou domaine connexe"
+  },
+  "conditions": {
+    "type_contrat": "CDI",
+    "lieu": "Tunis (possibilité télétravail 2j/semaine)",
+    "salaire_fourchette": "2500-3500 TND",
+    "teletravail": "Hybride"
+  },
+  "bonus_points": [
+    "Expérience en startup/scale-up",
+    "Projets open source",
+    "Articles publiés / conférences",
+    "Portfolio GitHub actif"
+  ],
+  "axes_evaluation_cles": [
+    "Maîtrise technical Python",
+    "Experience ML concrète",
+    "Capacité autonomie",
+    "Motivation pour NLP"
+  ]
+}
